@@ -29,7 +29,6 @@
 		27E8C37323E48C66007568A4 /* libRNNotifee.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNNotifee.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		27E8C37623E48C66007568A4 /* NotifeeApiModule.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NotifeeApiModule.h; sourceTree = "<group>"; };
 		27E8C37723E48C66007568A4 /* NotifeeApiModule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NotifeeApiModule.m; sourceTree = "<group>"; };
-		27E8C38523E4958E007568A4 /* NotifeeCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = NotifeeCore.framework; sourceTree = "<group>"; };
 		79F4B5682586EC800016CF49 /* NotifeeCore.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = NotifeeCore.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -75,7 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				79F4B5682586EC800016CF49 /* NotifeeCore.xcframework */,
-				27E8C38523E4958E007568A4 /* NotifeeCore.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
